@@ -1,148 +1,117 @@
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-name="IN: SONY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: SONY (4K).
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" group-title="INDIA ENTERTAINMENT",IN: SONY (4K).
 https://starshare.online:443/live/johannes/johannes123/98854.ts
 
-#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="IN: SONY SAB (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: SONY SAB (4K).
-
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="INDIA ENTERTAINMENT",SONY SAB
 https://starshare.online:443/live/johannes/johannes123/98853.ts
 
-#EXTINF:-1 tvg-id="colorshd.in" tvg-name="IN: COLORS (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: COLORS (4K).
-
+#EXTINF:-1 tvg-id="colorshd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ColorsHD.png" group-title="INDIA ENTERTAINMENT",COLORS HD
 https://starshare.online:443/live/johannes/johannes123/98851.ts
 
-#EXTINF:-1 tvg-id="starplushd.in" tvg-name="IN: STAR PLUS (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: STAR PLUS (4K).
-
+#EXTINF:-1 tvg-id="starplushd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png" group-title="INDIA ENTERTAINMENT",STAR PLUS HD
 https://starshare.online:443/live/johannes/johannes123/98849.ts
-#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="IN: STAR BHARAT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: STAR BHARAT (4K).
 
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="INDIA ENTERTAINMENT",STAR BHARAT Hd
 https://starshare.online:443/live/johannes/johannes123/98855.ts
 
-#EXTINF:-1 tvg-id="ts40" tvg-name="IN: &TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: &TV (4K).
-
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="INDIA ENTERTAINMENT",&TV 
 https://starshare.online:443/live/johannes/johannes123/98852.ts
 
-#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="IN: ZEETV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENTERTAINMENT",IN: ZEETV (4K).
-
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTV.png" group-title="INDIA ENTERTAINMENT",ZEE TV
 https://starshare.online:443/live/johannes/johannes123/98850.ts
 
-#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="IN: SONY MAX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: SONY MAX (4K).
-
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png" group-title="INDIA HINDI MOVIES",SONY MAX 
 https://starshare.online:443/live/johannes/johannes123/98857.ts
-#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="IN: &PICTURE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: &PICTURE (4K).
 
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="INDIA HINDI MOVIES",IN: &PICTURE (4K).
 https://starshare.online:443/live/johannes/johannes123/98856.ts
 
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="IN: STAR GOLD (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD (4K).
-
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="INDIA HINDI MOVIES",STAR GOLD
 https://starshare.online:443/live/johannes/johannes123/98858.ts
 
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="IN: STAR GOLD SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: STAR GOLD SELECT (4K).
-
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="INDIA HINDI MOVIES",STAR GOLD SELECT 
 https://starshare.online:443/live/johannes/johannes123/98859.ts
 
-#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="IN: ZEE CINEMA (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: ZEE CINEMA (4K).
-
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="INDIA HINDI MOVIES",ZEE CINEMA 
 https://starshare.online:443/live/johannes/johannes123/98860.ts
-#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-name="IN: Colors Cineplex (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA HINDI MOVIES",IN: Colors Cineplex (4K).
 
+#EXTINF:-1 tvg-id="colorscineplexhd.in" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg" group-title="INDIA HINDI MOVIES",Colors Cineplex 
 https://starshare.online:443/live/johannes/johannes123/98908.ts
 
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN: STAR MOVIE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE (4K).
-
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="INDIA ENGLISH MOVIES",STAR MOVIE 
 https://starshare.online:443/live/johannes/johannes123/98842.ts
 
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN: STAR MOVIE SELECT (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: STAR MOVIE SELECT (4K).
-
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="INDIA ENGLISH MOVIES",STAR MOVIE SELECT 
 https://starshare.online:443/live/johannes/johannes123/98843.ts
 
-#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: &PRIVE (4K).
-
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="INDIA ENGLISH MOVIES",&PRIVE 
 https://starshare.online:443/live/johannes/johannes123/98840.ts
 
-#EXTINF:-1 tvg-id="andflixhd.in" tvg-name="IN: &FLIX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: &FLIX (4K).
-
+#EXTINF:-1 tvg-id="andflixhd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="INDIA ENGLISH MOVIES",&FLIX 
 https://starshare.online:443/live/johannes/johannes123/98841.ts
 
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN: SONY PIX (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: SONY PIX (4K).
-
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png" group-title="INDIA ENGLISH MOVIES",SONY PIX 
 https://starshare.online:443/live/johannes/johannes123/98846.ts
 
-#EXTINF:-1 tvg-id="mnplushd.in" tvg-name="IN: MN+ (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: MN+ (4K).
-
+#EXTINF:-1 tvg-id="mnplushd.in" tvg-logo="." group-title="INDIA ENGLISH MOVIES",IN: MN+ (4K).
 https://starshare.online:443/live/johannes/johannes123/98847.ts
 
-#EXTINF:-1 tvg-id="zeecafehd.in" tvg-name="IN: ZEE CAFE (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: ZEE CAFE (4K).
-
+#EXTINF:-1 tvg-id="zeecafehd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="INDIA ENGLISH MOVIES",ZEE CAFE 
 https://starshare.online:443/live/johannes/johannes123/98848.ts
 
-#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-name="IN: Colors INFINITY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: Colors INFINITY (4K).
-
+#EXTINF:-1 tvg-id="colorsinfinityhd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="INDIA ENGLISH MOVIES",Colors INFINITY 
 https://starshare.online:443/live/johannes/johannes123/98879.ts
 
-#EXTINF:-1 tvg-id="tlchdworld.in" tvg-name="IN: TLC (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA ENGLISH MOVIES",IN: TLC (4K).
-
+#EXTINF:-1 tvg-id="tlchdworld.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="INDIA ENGLISH MOVIES",TLC
 https://starshare.online:443/live/johannes/johannes123/98878.ts
 
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: DISCOVERY (4K).
-
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="INDIA DOCUMENTARY",DISCOVERY
 https://starshare.online:443/live/johannes/johannes123/98872.ts
 
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: ANIMAL PLANET (4K).
-
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="INDIA DOCUMENTARY",ANIMAL PLANET 
 https://starshare.online:443/live/johannes/johannes123/98873.ts
 
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: National GEO (4K).
-
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="INDIA DOCUMENTARY",National GEO 
 https://starshare.online:443/live/johannes/johannes123/98874.ts
 
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: NAT Geo Wild (4K).
-
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="INDIA DOCUMENTARY",NAT Geo Wild 
 https://starshare.online:443/live/johannes/johannes123/98875.ts
 
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: Sony BBC EARTH (4K).
-
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-logo="." group-title="INDIA DOCUMENTARY",Sony BBC EARTH 
 https://starshare.online:443/live/johannes/johannes123/98871.ts
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="INDIA DOCUMENTARY",IN: HISTORY TV (4K).
-
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="INDIA DOCUMENTARY",HISTORY TV 
 https://starshare.online:443/live/johannes/johannes123/98877.ts
 
-#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="IN: STAR SPORTS 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 (4K).
-
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title=" SPORTS | INDIA",STAR SPORTS 1 
 https://starshare.online:443/live/johannes/johannes123/98864.ts
 
-#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN: STAR SPORTS 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 2 (4K).
-
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png" group-title=" SPORTS | INDIA",STAR SPORTS 2 
 https://starshare.online:443/live/johannes/johannes123/98865.ts
 
-#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN: STAR SPORTS 1 HINDI (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS 1 HINDI (4K).
-
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png" group-title=" SPORTS | INDIA",STAR SPORTS 1 HINDI 
 https://starshare.online:443/live/johannes/johannes123/98866.ts
 
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN: STAR SPORTS SELECT 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: STAR SPORTS SELECT 1 (4K).
-
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title=" SPORTS | INDIA",STAR SPORTS SELECT 1 
 https://starshare.online:443/live/johannes/johannes123/98867.ts
 
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN: START SPORTS SELECT 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: START SPORTS SELECT 2 (4K).
-
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png" group-title=" SPORTS | INDIA",START SPORTS SELECT 2 
 https://starshare.online:443/live/johannes/johannes123/98868.ts
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="IN: TEN 1 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 1 (4K).
-
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="." group-title=" SPORTS | INDIA",IN: TEN 1 (4K).
 https://starshare.online:443/live/johannes/johannes123/98861.ts
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="IN: TEN 2 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 2 (4K).
-
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title=" SPORTS | INDIA",IN: TEN 2 (4K).
 https://starshare.online:443/live/johannes/johannes123/98862.ts
 
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="IN: TEN 3 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: TEN 3 (4K).
-
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo="." group-title=" SPORTS | INDIA",IN: TEN 3 (4K).
 https://starshare.online:443/live/johannes/johannes123/98863.ts
 
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
-
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo="." group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
 https://starshare.online:443/live/johannes/johannes123/98870.ts
 
-#EXTINF:-1 tvg-id="disneyhd.in" tvg-name="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png group-title=" kids | Disney Hd
-
+#EXTINF:-1 tvg-id="disneyhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="kids",disney hd
 https://starshare.online/live/johannes/johannes123/19741.ts
+
