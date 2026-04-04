@@ -142,3 +142,5 @@ https://starshare.online:443/live/johannes/johannes123/98863.ts
 #EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="IN: SONY TEN 5 (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title=" SPORTS | INDIA",IN: SONY TEN 5 (4K).
 
 https://starshare.online:443/live/johannes/johannes123/98870.ts
+
+#EXTINF:-1 tvg-id="disneyhd.in" tvg-name="Kids" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png group-title=" kids | Disney Hd
