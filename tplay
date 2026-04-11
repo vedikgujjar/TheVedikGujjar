@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STAR.PLUS.HD.in" tvg-name="IN: STAR PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2531ab84864f26fa9a2189cc6eac2b09.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS HD
+http://5giptv.xyz:8880/94863529/65843757/326092
+#EXTINF:-1 tvg-id="STAR.PLUS.in" tvg-name="IN: STAR PLUS SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2531ab84864f26fa9a2189cc6eac2b09.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179091
+#EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-name="IN: STAR BHARAT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f81b555efb0843ee8f21771c7d78787f.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR BHARAT HD
+http://5giptv.xyz:8880/94863529/65843757/60154
+#EXTINF:-1 tvg-id="STAR.BHARAT.in" tvg-name="IN: STAR BHARAT SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f81b555efb0843ee8f21771c7d78787f.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR BHARAT SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325232
+#EXTINF:-1 tvg-id="STAR.UTSAV.in" tvg-name="IN: STAR UTSAV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/dc907349bd1e994ab09b59addbf47839.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR UTSAV SD
+http://5giptv.xyz:8880/94863529/65843757/1039605
+#EXTINF:-1 tvg-id="and.TV.HD.in" tvg-name="IN: & TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac0051f6c882b02c3fe17788059451b4.png" group-title="IN - ENTERTAINMENT - LIVE",IN: & TV HD
+http://5giptv.xyz:8880/94863529/65843757/326593
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac0051f6c882b02c3fe17788059451b4.png" group-title="IN - ENTERTAINMENT - LIVE",IN: & TV SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179092
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="IN: COLORS FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS FHD
+http://5giptv.xyz:8880/94863529/65843757/179093
+#EXTINF:-1 tvg-id="COLORS.in" tvg-name="IN: COLORS SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325500
+#EXTINF:-1 tvg-id="COLORS.KANNADA.in" tvg-name="IN: COLORS RISHTEY SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS RISHTEY SD
+http://5giptv.xyz:8880/94863529/65843757/326594
+#EXTINF:-1 tvg-id="ZEE.TV.HD.in" tvg-name="IN: ZEE TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/abe8fbca0832280a88dc5983147bf0de.png" group-title="IN - ENTERTAINMENT - LIVE",IN: ZEE TV HD
+http://5giptv.xyz:8880/94863529/65843757/32140
+#EXTINF:-1 tvg-id="ZEE.TV.in" tvg-name="IN:  Zee TV SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/abe8fbca0832280a88dc5983147bf0de.png" group-title="IN - ENTERTAINMENT - LIVE",IN:  Zee TV SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325190
+#EXTINF:-1 tvg-id="" tvg-name="IN ANMOL SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d1a0bd941bfa200d0d53d7949e3397ee.png" group-title="IN - ENTERTAINMENT - LIVE",IN ANMOL SD
+http://5giptv.xyz:8880/94863529/65843757/325395
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-name="IN: SAB HD" tvg-logo="https://wallpapers.com/images/hd/sony-sab-television-channel-logo-zer5x8nmlbgnbujk.jpg" group-title="IN - ENTERTAINMENT - LIVE",IN: SAB HD
+http://5giptv.xyz:8880/94863529/65843757/179143
+#EXTINF:-1 tvg-id="SONY.SAB.in" tvg-name="IN: SAB SD Low Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/250px-Sony_SAB.svg.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SAB SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/1039608
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="IN: SET FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e58e330ad32a26c6c51fbcb68b2f280.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SET FHD
+http://5giptv.xyz:8880/94863529/65843757/179098
+#EXTINF:-1 tvg-id="SET.in" tvg-name="IN: SONY SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e58e330ad32a26c6c51fbcb68b2f280.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SONY SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179083
+#EXTINF:-1 tvg-id="SONY.PAL.in" tvg-name="IN: SONY PAL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3kjZT8CrJYcLDjnY65MuYR1mNat3Cmt3cw&s" group-title="IN - ENTERTAINMENT - LIVE",IN: SONY PAL SD
+http://5giptv.xyz:8880/94863529/65843757/325997
+#EXTINF:-1 tvg-id="" tvg-name="IN; BIG MAGIC SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/56a03da6ecc774ca1dd913c99c6b429f.png" group-title="IN - ENTERTAINMENT - LIVE",IN; BIG MAGIC SD
+http://5giptv.xyz:8880/94863529/65843757/1043108
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dangal 2" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/12ad55d49823c3f5cda1019bcadad36a.png" group-title="IN - ENTERTAINMENT - LIVE",IN: Dangal 2
+http://5giptv.xyz:8880/94863529/65843757/1043115
+#EXTINF:-1 tvg-id="MAX.HD.in" tvg-name="IN: MAX HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/4678899977.png" group-title="IN - MOVIS HD SD - LIVE",IN: MAX HD
+http://5giptv.xyz:8880/94863529/65843757/60157
+#EXTINF:-1 tvg-id="SONY.MAX.2.in" tvg-name="IN: MAX 2 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/c1dd82929a5c0356b690fb581cdd5ae9.jpeg" group-title="IN - MOVIS HD SD - LIVE",IN: MAX 2 SD
+http://5giptv.xyz:8880/94863529/65843757/32196
+#EXTINF:-1 tvg-id="SONY.WAH.in" tvg-name="IN: SONY WAH SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-wah-in.png" group-title="IN - MOVIS HD SD - LIVE",IN: SONY WAH SD
+http://5giptv.xyz:8880/94863529/65843757/1047670
+#EXTINF:-1 tvg-id="STAR.GOLD.HD.in" tvg-name="IN: STAR GOLD HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59975785291.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD HD 
+http://5giptv.xyz:8880/94863529/65843757/32161
+#EXTINF:-1 tvg-id="Star.Gold.Select.HD.in" tvg-name="IN: STAR SELECT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR SELECT HD
+http://5giptv.xyz:8880/94863529/65843757/326257
+#EXTINF:-1 tvg-id="Star.Gold.2.in" tvg-name="IN: STAR GOLD 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69390864761.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32205
+#EXTINF:-1 tvg-id="STAR.UTSAV.MOVIES.in" tvg-name="IN: STAR UTSAV MOVIS SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/fcfbf2a1877ed32b46cb2e8e12520dfa.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR UTSAV MOVIS SD
+http://5giptv.xyz:8880/94863529/65843757/326047
+#EXTINF:-1 tvg-id="STAR.GOLD.ROMANCE.in" tvg-name="IN: STAR GOLD ROMNS SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD ROMNS SD
+http://5giptv.xyz:8880/94863529/65843757/522181
+#EXTINF:-1 tvg-id="STAR.GOLD.THRILLS.in" tvg-name="IN: Star Gold THL SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="IN - MOVIS HD SD - LIVE",IN: Star Gold THL SD
+http://5giptv.xyz:8880/94863529/65843757/325483
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" tvg-name="IN: Colors Cineplex HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="IN - MOVIS HD SD - LIVE",IN: Colors Cineplex HD
+http://5giptv.xyz:8880/94863529/65843757/584456
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" tvg-name="IN  CINEPLEX BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="IN - MOVIS HD SD - LIVE",IN  CINEPLEX BOLLYWOOD
+http://5giptv.xyz:8880/94863529/65843757/60127
+#EXTINF:-1 tvg-id="and.PICTURES.in" tvg-name="IN: & PICTURES HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91200055941.png" group-title="IN - MOVIS HD SD - LIVE",IN: & PICTURES HD 
+http://5giptv.xyz:8880/94863529/65843757/32208
+#EXTINF:-1 tvg-id="and.PICTURES.HD.in" tvg-name="IN: & PICTURES FHD " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="IN - MOVIS HD SD - LIVE",IN: & PICTURES FHD 
+http://5giptv.xyz:8880/94863529/65843757/325319
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.SUPERHITS.in" tvg-name="IN: COLORS CINEPLEX SUPERHITS SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="IN - MOVIS HD SD - LIVE",IN: COLORS CINEPLEX SUPERHITS SD
+http://5giptv.xyz:8880/94863529/65843757/32142
+#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" tvg-name="IN: ZEE CINEMA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE CINEMA HD
+http://5giptv.xyz:8880/94863529/65843757/325485
+#EXTINF:-1 tvg-id="ZEE.Bollywood.in" tvg-name="IN: ZEE Bollywood" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/fc206a0b6638d335172236ae7503db4e.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE Bollywood
+http://5giptv.xyz:8880/94863529/65843757/1037905
+#EXTINF:-1 tvg-id="ZEE.CLASSIC.in" tvg-name="IN Zee Classic SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/31bb083e13e39fcd766423ea37ad7ca9.png" group-title="IN - MOVIS HD SD - LIVE",IN Zee Classic SD
+http://5giptv.xyz:8880/94863529/65843757/32132
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="IN:  ANMOL CINEMA SD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5823186724.png" group-title="IN - MOVIS HD SD - LIVE",IN:  ANMOL CINEMA SD
+http://5giptv.xyz:8880/94863529/65843757/32148
+#EXTINF:-1 tvg-id="Discovery.Turbo.in" tvg-name="IN: ANMOL CINEMA 2 SD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAkFBMVEX/////Zyr/ZSb/ZSf/aCr/ZCP/qor//Pr/bC//3dD/7OT/39P/9/T/YiD/+vj/8u3/e0b/fkv/hVb/2cr/w6z/zrv/d0H/iVv/5dv/r5D/yrb/tJb/kmf/jmP/wan/gU7/oHv/lm7/cjn/6N//up//08L/dDz/oX3/rIz/vKP/mnP/Xxf/pYP/bjT/Wwf/glPDrqoSAAARkUlEQVR4nO1di5aiuhLVhAgiERREBN+KtorX//+7W0kQgga0u/V0z+rs45pxeIZtpbKrUuG0WhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhp/AY7d8/1RzDBK/cju/3SDfincbjA5zi7h2TAIIciywstsOZl3nZ9u2C+DacfZcGdRShDGbQ6MMSKUWuEwi23zpxv4a+CO9t4ZkStLFWAMJuYtR+5PN/JXYDMfGxipeCr4QsgYz6OfbuiPI0oWJ9JEVA5yCj96P93YH4WdXAh6TJSwLupN7J9u8I+hH48N8iRTDAgNgz+qIjZ76zNMcbaM4190W+Zo8YyfugEmg79nWu7k00aVm5b18cf0Q7RsVAmNpoVW7+6Hjm27vyZciMZfpgpAFt33Ns8fDwbjzH/vTZ5Ed0G/zhQjy0vf2r7Io4gQa/vWmzwH3/uaq/rPyHLGFMwenUfvvMlT6A6+SxWQFb61hyQLz0BtMvvpUSS6fJ+qdpsu3kmWu4mCEGErfuM9noA9/Z6vKsgav3k0TCxMlz+q5dzla6gCslbv7SE2aOXdj4brifENsVAFSt77q2eoTX9yKEx3z6YVnuBqrXQnLyOwd8Zk/HPe3R6+jiogy9vc3qA3WY2nHz7LObvbzveQndtta/nRfND2GTLNaJTsV7PZdLbKtqn7VEbc/HjFEFiCZFUjcpIQNCQxdhN4gs" group-title="IN - MOVIS HD SD - LIVE",IN: ANMOL CINEMA 2 SD
+http://5giptv.xyz:8880/94863529/65843757/587546
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ACTION HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41755892411.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE ACTION HD 
+http://5giptv.xyz:8880/94863529/65843757/179096
+#EXTINF:-1 tvg-id="B4U.Movies.in" tvg-name="IN: B4U MOVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY80-tqCgnt8jnw1b2B1yXcj-mbW1zM9BfA&s" group-title="IN - MOVIS HD SD - LIVE",IN: B4U MOVES
+http://5giptv.xyz:8880/94863529/65843757/1056257
+#EXTINF:-1 tvg-id="and.PRIVE.HD.in" tvg-name="& PRIVE 4K" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBUQDxIVFhAXFxUbGBYVFhgVGBoXFRcXGBgWFhgYHSggGBolHRgZITEhJSkrLi4uGR8zODMtNygtLisBCgoKDQ0NDg0NDisZFRkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAMIBAwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQcEBggBAwL/xABQEAABAwIDBAcCBwkNCQEAAAABAAIDBBEFEiEGBzFBEyJRYXGBkTKhCBQjQlKxshUzNWJyc3SSwRYkNENVY4KDk5Siw9IXNlNks7TR4fBU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8UREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBF5dRWLbSUVJ/CamKM9j3gH04oJZFpT96uCg2+Ot8mSEeoapPC9uMLqSGw1kLnH5pdld6OsUGxIvyHA8F6EHqIiAiIgIiICIiAi8ul0HqIiAiIgIi8JQeovAV6gIiICIiAiIgIiIF1FbQ4/T0EDqiqkDIx6uPJrRxLj2LLxKujp4nzTODY2NLnOPIAXK5Q3g7ZTYtVGV5LYGkiKO+jW30JH0zzKDadpN5+JYtOKTDg6GN7srWMPyj7/AEn/ADdNdOC3nZTcvSRtEmJF1RUHVwzOEYPZobv8StO+DphrJK6edwu6GIBvcZCQT42aR5q9No8WFHSTVTm5hFG5+UaXLRoO6" group-title="IN - ENG MOVIES 4K LIVE ",& PRIVE 4K
+http://5giptv.xyz:8880/94863529/65843757/586718
+#EXTINF:-1 tvg-id="SONY.PIX.HD.in" tvg-name="SONY PIX 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a1ef31e41d1c9f847a947f5d4364f57d.png" group-title="IN - ENG MOVIES 4K LIVE ",SONY PIX 4K
+http://5giptv.xyz:8880/94863529/65843757/586747
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-name="STAR Movies 4K" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="IN - ENG MOVIES 4K LIVE ",STAR Movies 4K
+http://5giptv.xyz:8880/94863529/65843757/586723
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-name="  STAR MOVIES SELECT  4K" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="IN - ENG MOVIES 4K LIVE ",  STAR MOVIES SELECT  4K
+http://5giptv.xyz:8880/94863529/65843757/586767
+#EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-name="&flix 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/94314475361.png" group-title="IN - ENG MOVIES 4K LIVE ",&flix 4K
+http://5giptv.xyz:8880/94863529/65843757/586721
+#EXTINF:-1 tvg-id="" tvg-name=" MN+ 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/896c4e820aef64925416c28f3faf1f1b.png" group-title="IN - ENG MOVIES 4K LIVE ", MN+ 4K
+http://5giptv.xyz:8880/94863529/65843757/586720
+#EXTINF:-1 tvg-id="" tvg-name=" MOVIES NOW 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/84b4574bc2fbb0c5edcef5adca04f960.png" group-title="IN - ENG MOVIES 4K LIVE ", MOVIES NOW 4K
+http://5giptv.xyz:8880/94863529/65843757/586771
+#EXTINF:-1 tvg-id="" tvg-name=" &Xplor 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/637c89a29a602468ce0bffc8cb1fea6f.png" group-title="IN - ENG MOVIES 4K LIVE ", &Xplor 4K
+http://5giptv.xyz:8880/94863529/65843757/586763
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY INTERNATIONAL 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b99d21de7a2ef3760599456b29f7b48f.png" group-title="IN - ENG MOVIES 4K LIVE ",DISNEY INTERNATIONAL 4K
+http://5giptv.xyz:8880/94863529/65843757/1040932
+#EXTINF:-1 tvg-id="" tvg-name="NICK+ 4K ENGLISH" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6a8784ce34c59a4e891e7274587857ae.png" group-title="IN - ENG MOVIES 4K LIVE ",NICK+ 4K ENGLISH
+http://5giptv.xyz:8880/94863529/65843757/1040935
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/TravelXP4K.png" group-title="IN - ENG MOVIES 4K LIVE ",TRAVEL XP 4K
+http://5giptv.xyz:8880/94863529/65843757/586743
+#EXTINF:-1 tvg-id="" tvg-name="TLC 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37538906971.png" group-title="IN - ENG MOVIES 4K LIVE ",TLC 4K
+http://5giptv.xyz:8880/94863529/65843757/586727
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac225ce6b67e914986a3f2ad5888f5a3.png" group-title="IN - ENG MOVIES 4K LIVE ",ZEE CAFE 4K
+http://5giptv.xyz:8880/94863529/65843757/586745
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9edcdd9b9ce9a7188c2452a23b3fe9c4.png" group-title="IN - ENG MOVIES 4K LIVE ",Colors Infinity 4K
+http://5giptv.xyz:8880/94863529/65843757/586729
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/340?cb=20221025083646" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 1 HD
+http://5giptv.xyz:8880/94863529/65843757/325506
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.in" tvg-name="IN: SONY TEN 1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/340?cb=20221025083646" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 1 SD
+http://5giptv.xyz:8880/94863529/65843757/1042682
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32169
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.in" tvg-name="IN SONY TEN 3 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="IN - INDIAN SPORTS - LIVE",IN SONY TEN 3 SD
+http://5giptv.xyz:8880/94863529/65843757/1043126
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="IN: SONY TEN 3 HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 3 HD 
+http://5giptv.xyz:8880/94863529/65843757/325387
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-name="IN: SONY TEN 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzetBdZ-mAZ552ehUvqTm7r8CSJkZWpJkQpg&s" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 5 HD
+http://5giptv.xyz:8880/94863529/65843757/32179
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.in" tvg-name="IN: STAR SPORTS 1 HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 1 HD 
+http://5giptv.xyz:8880/94863529/65843757/179348
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-name="IN : STAR SPORTS 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN : STAR SPORTS 1 SD
+http://5giptv.xyz:8880/94863529/65843757/1053169
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.HINDI.in" tvg-name="IN: STAR SPORTS HINDI HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/87425eefc162d5887894dc8688837d4a.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS HINDI HD 
+http://5giptv.xyz:8880/94863529/65843757/179338
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-name="IN: STAR SPORTS 1 HINDI SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 1 HINDI SD
+http://5giptv.xyz:8880/94863529/65843757/1042279
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 2 HD
+http://5giptv.xyz:8880/94863529/65843757/179342
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HINDI.HD.in" tvg-name="IN: STAR SPORT 2 HINDH HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORT 2 HINDH HD
+http://5giptv.xyz:8880/94863529/65843757/32139
+#EXTINF:-1 tvg-id="STAR.SPORTS.3.in" tvg-name="IN: STAR SPORTS 3 SD ENG" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1b697c9952c2b629729569e9b64a5249.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 3 SD ENG
+http://5giptv.xyz:8880/94863529/65843757/179353
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8e8b373b9cffe7f4fe7a4097d3080ba1.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS SELECT 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32158
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="IN: STAR SPORTS SELECT 1 HD" tvg-logo="htt
