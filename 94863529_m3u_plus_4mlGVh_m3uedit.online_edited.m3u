@@ -1,0 +1,821 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STAR.PLUS.HD.in" tvg-name="IN: STAR PLUS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2531ab84864f26fa9a2189cc6eac2b09.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS HD
+http://5giptv.xyz:8880/94863529/65843757/326092
+#EXTINF:-1 tvg-id="STAR.PLUS.in" tvg-name="IN: STAR PLUS SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/2531ab84864f26fa9a2189cc6eac2b09.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR PLUS SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179091
+#EXTINF:-1 tvg-id="STAR.BHARAT.HD.in" tvg-name="IN: STAR BHARAT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f81b555efb0843ee8f21771c7d78787f.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR BHARAT HD
+http://5giptv.xyz:8880/94863529/65843757/60154
+#EXTINF:-1 tvg-id="STAR.BHARAT.in" tvg-name="IN: STAR BHARAT SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f81b555efb0843ee8f21771c7d78787f.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR BHARAT SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325232
+#EXTINF:-1 tvg-id="STAR.UTSAV.in" tvg-name="IN: STAR UTSAV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/dc907349bd1e994ab09b59addbf47839.png" group-title="IN - ENTERTAINMENT - LIVE",IN: STAR UTSAV SD
+http://5giptv.xyz:8880/94863529/65843757/1039605
+#EXTINF:-1 tvg-id="and.TV.HD.in" tvg-name="IN: & TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac0051f6c882b02c3fe17788059451b4.png" group-title="IN - ENTERTAINMENT - LIVE",IN: & TV HD
+http://5giptv.xyz:8880/94863529/65843757/326593
+#EXTINF:-1 tvg-id="" tvg-name="IN: & TV SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac0051f6c882b02c3fe17788059451b4.png" group-title="IN - ENTERTAINMENT - LIVE",IN: & TV SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179092
+#EXTINF:-1 tvg-id="COLORS.HD.in" tvg-name="IN: COLORS FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS FHD
+http://5giptv.xyz:8880/94863529/65843757/179093
+#EXTINF:-1 tvg-id="COLORS.in" tvg-name="IN: COLORS SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325500
+#EXTINF:-1 tvg-id="COLORS.KANNADA.in" tvg-name="IN: COLORS RISHTEY SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6ecc6987b5469c68bb4d4322e42283a5.png" group-title="IN - ENTERTAINMENT - LIVE",IN: COLORS RISHTEY SD
+http://5giptv.xyz:8880/94863529/65843757/326594
+#EXTINF:-1 tvg-id="ZEE.TV.HD.in" tvg-name="IN: ZEE TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/abe8fbca0832280a88dc5983147bf0de.png" group-title="IN - ENTERTAINMENT - LIVE",IN: ZEE TV HD
+http://5giptv.xyz:8880/94863529/65843757/32140
+#EXTINF:-1 tvg-id="ZEE.TV.in" tvg-name="IN:  Zee TV SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/abe8fbca0832280a88dc5983147bf0de.png" group-title="IN - ENTERTAINMENT - LIVE",IN:  Zee TV SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/325190
+#EXTINF:-1 tvg-id="" tvg-name="IN ANMOL SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d1a0bd941bfa200d0d53d7949e3397ee.png" group-title="IN - ENTERTAINMENT - LIVE",IN ANMOL SD
+http://5giptv.xyz:8880/94863529/65843757/325395
+#EXTINF:-1 tvg-id="SAB.HD.in" tvg-name="IN: SAB HD" tvg-logo="https://wallpapers.com/images/hd/sony-sab-television-channel-logo-zer5x8nmlbgnbujk.jpg" group-title="IN - ENTERTAINMENT - LIVE",IN: SAB HD
+http://5giptv.xyz:8880/94863529/65843757/179143
+#EXTINF:-1 tvg-id="SONY.SAB.in" tvg-name="IN: SAB SD Low Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sony_SAB.svg/250px-Sony_SAB.svg.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SAB SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/1039608
+#EXTINF:-1 tvg-id="SET.HD.in" tvg-name="IN: SET FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e58e330ad32a26c6c51fbcb68b2f280.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SET FHD
+http://5giptv.xyz:8880/94863529/65843757/179098
+#EXTINF:-1 tvg-id="SET.in" tvg-name="IN: SONY SD Low Net" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e58e330ad32a26c6c51fbcb68b2f280.png" group-title="IN - ENTERTAINMENT - LIVE",IN: SONY SD Low Net
+http://5giptv.xyz:8880/94863529/65843757/179083
+#EXTINF:-1 tvg-id="SONY.PAL.in" tvg-name="IN: SONY PAL SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH3kjZT8CrJYcLDjnY65MuYR1mNat3Cmt3cw&s" group-title="IN - ENTERTAINMENT - LIVE",IN: SONY PAL SD
+http://5giptv.xyz:8880/94863529/65843757/325997
+#EXTINF:-1 tvg-id="" tvg-name="IN; BIG MAGIC SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/56a03da6ecc774ca1dd913c99c6b429f.png" group-title="IN - ENTERTAINMENT - LIVE",IN; BIG MAGIC SD
+http://5giptv.xyz:8880/94863529/65843757/1043108
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dangal 2" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/12ad55d49823c3f5cda1019bcadad36a.png" group-title="IN - ENTERTAINMENT - LIVE",IN: Dangal 2
+http://5giptv.xyz:8880/94863529/65843757/1043115
+#EXTINF:-1 tvg-id="MAX.HD.in" tvg-name="IN: MAX HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/4678899977.png" group-title="IN - MOVIS HD SD - LIVE",IN: MAX HD
+http://5giptv.xyz:8880/94863529/65843757/60157
+#EXTINF:-1 tvg-id="SONY.MAX.2.in" tvg-name="IN: MAX 2 SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-11/c1dd82929a5c0356b690fb581cdd5ae9.jpeg" group-title="IN - MOVIS HD SD - LIVE",IN: MAX 2 SD
+http://5giptv.xyz:8880/94863529/65843757/32196
+#EXTINF:-1 tvg-id="SONY.WAH.in" tvg-name="IN: SONY WAH SD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-wah-in.png" group-title="IN - MOVIS HD SD - LIVE",IN: SONY WAH SD
+http://5giptv.xyz:8880/94863529/65843757/1047670
+#EXTINF:-1 tvg-id="STAR.GOLD.HD.in" tvg-name="IN: STAR GOLD HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/59975785291.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD HD 
+http://5giptv.xyz:8880/94863529/65843757/32161
+#EXTINF:-1 tvg-id="Star.Gold.Select.HD.in" tvg-name="IN: STAR SELECT HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/30af3c510bcfdb3845c56a67a1c3bd61.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR SELECT HD
+http://5giptv.xyz:8880/94863529/65843757/326257
+#EXTINF:-1 tvg-id="Star.Gold.2.in" tvg-name="IN: STAR GOLD 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69390864761.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32205
+#EXTINF:-1 tvg-id="STAR.UTSAV.MOVIES.in" tvg-name="IN: STAR UTSAV MOVIS SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/fcfbf2a1877ed32b46cb2e8e12520dfa.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR UTSAV MOVIS SD
+http://5giptv.xyz:8880/94863529/65843757/326047
+#EXTINF:-1 tvg-id="STAR.GOLD.ROMANCE.in" tvg-name="IN: STAR GOLD ROMNS SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="IN - MOVIS HD SD - LIVE",IN: STAR GOLD ROMNS SD
+http://5giptv.xyz:8880/94863529/65843757/522181
+#EXTINF:-1 tvg-id="STAR.GOLD.THRILLS.in" tvg-name="IN: Star Gold THL SD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/39e4ba0feeb32d7265b5d927f3b7c668.png" group-title="IN - MOVIS HD SD - LIVE",IN: Star Gold THL SD
+http://5giptv.xyz:8880/94863529/65843757/325483
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" tvg-name="IN: Colors Cineplex HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="IN - MOVIS HD SD - LIVE",IN: Colors Cineplex HD
+http://5giptv.xyz:8880/94863529/65843757/584456
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.in" tvg-name="IN  CINEPLEX BOLLYWOOD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/3065653535cdfa318a8185d152607846.png" group-title="IN - MOVIS HD SD - LIVE",IN  CINEPLEX BOLLYWOOD
+http://5giptv.xyz:8880/94863529/65843757/60127
+#EXTINF:-1 tvg-id="and.PICTURES.in" tvg-name="IN: & PICTURES HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/91200055941.png" group-title="IN - MOVIS HD SD - LIVE",IN: & PICTURES HD 
+http://5giptv.xyz:8880/94863529/65843757/32208
+#EXTINF:-1 tvg-id="and.PICTURES.HD.in" tvg-name="IN: & PICTURES FHD " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="IN - MOVIS HD SD - LIVE",IN: & PICTURES FHD 
+http://5giptv.xyz:8880/94863529/65843757/325319
+#EXTINF:-1 tvg-id="COLORS.CINEPLEX.SUPERHITS.in" tvg-name="IN: COLORS CINEPLEX SUPERHITS SD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-cineplex-superhits-in.png" group-title="IN - MOVIS HD SD - LIVE",IN: COLORS CINEPLEX SUPERHITS SD
+http://5giptv.xyz:8880/94863529/65843757/32142
+#EXTINF:-1 tvg-id="ZEE.CINEMA.HD.in" tvg-name="IN: ZEE CINEMA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/085bf305157db5fde8b5efdf9e67c0eb.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE CINEMA HD
+http://5giptv.xyz:8880/94863529/65843757/325485
+#EXTINF:-1 tvg-id="ZEE.Bollywood.in" tvg-name="IN: ZEE Bollywood" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/fc206a0b6638d335172236ae7503db4e.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE Bollywood
+http://5giptv.xyz:8880/94863529/65843757/1037905
+#EXTINF:-1 tvg-id="ZEE.CLASSIC.in" tvg-name="IN Zee Classic SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/31bb083e13e39fcd766423ea37ad7ca9.png" group-title="IN - MOVIS HD SD - LIVE",IN Zee Classic SD
+http://5giptv.xyz:8880/94863529/65843757/32132
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="IN:  ANMOL CINEMA SD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/5823186724.png" group-title="IN - MOVIS HD SD - LIVE",IN:  ANMOL CINEMA SD
+http://5giptv.xyz:8880/94863529/65843757/32148
+#EXTINF:-1 tvg-id="Discovery.Turbo.in" tvg-name="IN: ANMOL CINEMA 2 SD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAkFBMVEX/////Zyr/ZSb/ZSf/aCr/ZCP/qor//Pr/bC//3dD/7OT/39P/9/T/YiD/+vj/8u3/e0b/fkv/hVb/2cr/w6z/zrv/d0H/iVv/5dv/r5D/yrb/tJb/kmf/jmP/wan/gU7/oHv/lm7/cjn/6N//up//08L/dDz/oX3/rIz/vKP/mnP/Xxf/pYP/bjT/Wwf/glPDrqoSAAARkUlEQVR4nO1di5aiuhLVhAgiERREBN+KtorX//+7W0kQgga0u/V0z+rs45pxeIZtpbKrUuG0WhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhp/AY7d8/1RzDBK/cju/3SDfincbjA5zi7h2TAIIciywstsOZl3nZ9u2C+DacfZcGdRShDGbQ6MMSKUWuEwi23zpxv4a+CO9t4ZkStLFWAMJuYtR+5PN/JXYDMfGxipeCr4QsgYz6OfbuiPI0oWJ9JEVA5yCj96P93YH4WdXAh6TJSwLupN7J9u8I+hH48N8iRTDAgNgz+qIjZ76zNMcbaM4190W+Zo8YyfugEmg79nWu7k00aVm5b18cf0Q7RsVAmNpoVW7+6Hjm27vyZciMZfpgpAFt33Ns8fDwbjzH/vTZ5Ed0G/zhQjy0vf2r7Io4gQa/vWmzwH3/uaq/rPyHLGFMwenUfvvMlT6A6+SxWQFb61hyQLz0BtMvvpUSS6fJ+qdpsu3kmWu4mCEGErfuM9noA9/Z6vKsgav3k0TCxMlz+q5dzla6gCslbv7SE2aOXdj4brifENsVAFSt77q2eoTX9yKEx3z6YVnuBqrXQnLyOwd8Zk/HPe3R6+jiogy9vc3qA3WY2nHz7LObvbzveQndtta/nRfND2GTLNaJTsV7PZdLbKtqn7VEbc/HjFEFiCZFUjcpIQNCQxdhN4gs" group-title="IN - MOVIS HD SD - LIVE",IN: ANMOL CINEMA 2 SD
+http://5giptv.xyz:8880/94863529/65843757/587546
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ACTION HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41755892411.png" group-title="IN - MOVIS HD SD - LIVE",IN: ZEE ACTION HD 
+http://5giptv.xyz:8880/94863529/65843757/179096
+#EXTINF:-1 tvg-id="B4U.Movies.in" tvg-name="IN: B4U MOVES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY80-tqCgnt8jnw1b2B1yXcj-mbW1zM9BfA&s" group-title="IN - MOVIS HD SD - LIVE",IN: B4U MOVES
+http://5giptv.xyz:8880/94863529/65843757/1056257
+#EXTINF:-1 tvg-id="and.PRIVE.HD.in" tvg-name="& PRIVE 4K" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBUQDxIVFhAXFxUbGBYVFhgVGBoXFRcXGBgWFhgYHSggGBolHRgZITEhJSkrLi4uGR8zODMtNygtLisBCgoKDQ0NDg0NDisZFRkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAMIBAwMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQcEBggBAwL/xABQEAABAwIDBAcCBwkNCQEAAAABAAIDBBEFEiEGBzFBEyJRYXGBkTKhCBQjQlKxshUzNWJyc3SSwRYkNENVY4KDk5Siw9IXNlNks7TR4fBU/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC8UREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBF5dRWLbSUVJ/CamKM9j3gH04oJZFpT96uCg2+Ot8mSEeoapPC9uMLqSGw1kLnH5pdld6OsUGxIvyHA8F6EHqIiAiIgIiICIiAi8ul0HqIiAiIgIi8JQeovAV6gIiICIiAiIgIiIF1FbQ4/T0EDqiqkDIx6uPJrRxLj2LLxKujp4nzTODY2NLnOPIAXK5Q3g7ZTYtVGV5LYGkiKO+jW30JH0zzKDadpN5+JYtOKTDg6GN7srWMPyj7/AEn/ADdNdOC3nZTcvSRtEmJF1RUHVwzOEYPZobv8StO+DphrJK6edwu6GIBvcZCQT42aR5q9No8WFHSTVTm5hFG5+UaXLRoO6" group-title="IN - ENG MOVIES 4K LIVE ",& PRIVE 4K
+http://5giptv.xyz:8880/94863529/65843757/586718
+#EXTINF:-1 tvg-id="SONY.PIX.HD.in" tvg-name="SONY PIX 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a1ef31e41d1c9f847a947f5d4364f57d.png" group-title="IN - ENG MOVIES 4K LIVE ",SONY PIX 4K
+http://5giptv.xyz:8880/94863529/65843757/586747
+#EXTINF:-1 tvg-id="STAR.MOVIES.HD.in" tvg-name="STAR Movies 4K" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="IN - ENG MOVIES 4K LIVE ",STAR Movies 4K
+http://5giptv.xyz:8880/94863529/65843757/586723
+#EXTINF:-1 tvg-id="STAR.MOVIES.SELECT.HD.in" tvg-name="  STAR MOVIES SELECT  4K" tvg-logo="https://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="IN - ENG MOVIES 4K LIVE ",  STAR MOVIES SELECT  4K
+http://5giptv.xyz:8880/94863529/65843757/586767
+#EXTINF:-1 tvg-id="and.Flix.HD.in" tvg-name="&flix 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/94314475361.png" group-title="IN - ENG MOVIES 4K LIVE ",&flix 4K
+http://5giptv.xyz:8880/94863529/65843757/586721
+#EXTINF:-1 tvg-id="" tvg-name=" MN+ 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/896c4e820aef64925416c28f3faf1f1b.png" group-title="IN - ENG MOVIES 4K LIVE ", MN+ 4K
+http://5giptv.xyz:8880/94863529/65843757/586720
+#EXTINF:-1 tvg-id="" tvg-name=" MOVIES NOW 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/84b4574bc2fbb0c5edcef5adca04f960.png" group-title="IN - ENG MOVIES 4K LIVE ", MOVIES NOW 4K
+http://5giptv.xyz:8880/94863529/65843757/586771
+#EXTINF:-1 tvg-id="" tvg-name=" &Xplor 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/637c89a29a602468ce0bffc8cb1fea6f.png" group-title="IN - ENG MOVIES 4K LIVE ", &Xplor 4K
+http://5giptv.xyz:8880/94863529/65843757/586763
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY INTERNATIONAL 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b99d21de7a2ef3760599456b29f7b48f.png" group-title="IN - ENG MOVIES 4K LIVE ",DISNEY INTERNATIONAL 4K
+http://5giptv.xyz:8880/94863529/65843757/1040932
+#EXTINF:-1 tvg-id="" tvg-name="NICK+ 4K ENGLISH" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6a8784ce34c59a4e891e7274587857ae.png" group-title="IN - ENG MOVIES 4K LIVE ",NICK+ 4K ENGLISH
+http://5giptv.xyz:8880/94863529/65843757/1040935
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/TravelXP4K.png" group-title="IN - ENG MOVIES 4K LIVE ",TRAVEL XP 4K
+http://5giptv.xyz:8880/94863529/65843757/586743
+#EXTINF:-1 tvg-id="" tvg-name="TLC 4K" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/37538906971.png" group-title="IN - ENG MOVIES 4K LIVE ",TLC 4K
+http://5giptv.xyz:8880/94863529/65843757/586727
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ac225ce6b67e914986a3f2ad5888f5a3.png" group-title="IN - ENG MOVIES 4K LIVE ",ZEE CAFE 4K
+http://5giptv.xyz:8880/94863529/65843757/586745
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9edcdd9b9ce9a7188c2452a23b3fe9c4.png" group-title="IN - ENG MOVIES 4K LIVE ",Colors Infinity 4K
+http://5giptv.xyz:8880/94863529/65843757/586729
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="IN: SONY TEN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/340?cb=20221025083646" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 1 HD
+http://5giptv.xyz:8880/94863529/65843757/325506
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.in" tvg-name="IN: SONY TEN 1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/340?cb=20221025083646" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 1 SD
+http://5giptv.xyz:8880/94863529/65843757/1042682
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-name="IN: SONY TEN 2 HD" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32169
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.in" tvg-name="IN SONY TEN 3 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="IN - INDIAN SPORTS - LIVE",IN SONY TEN 3 SD
+http://5giptv.xyz:8880/94863529/65843757/1043126
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="IN: SONY TEN 3 HD " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 3 HD 
+http://5giptv.xyz:8880/94863529/65843757/325387
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-name="IN: SONY TEN 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzetBdZ-mAZ552ehUvqTm7r8CSJkZWpJkQpg&s" group-title="IN - INDIAN SPORTS - LIVE",IN: SONY TEN 5 HD
+http://5giptv.xyz:8880/94863529/65843757/32179
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.in" tvg-name="IN: STAR SPORTS 1 HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 1 HD 
+http://5giptv.xyz:8880/94863529/65843757/179348
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.in" tvg-name="IN : STAR SPORTS 1 SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN : STAR SPORTS 1 SD
+http://5giptv.xyz:8880/94863529/65843757/1053169
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HD.HINDI.in" tvg-name="IN: STAR SPORTS HINDI HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/87425eefc162d5887894dc8688837d4a.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS HINDI HD 
+http://5giptv.xyz:8880/94863529/65843757/179338
+#EXTINF:-1 tvg-id="STAR.SPORTS.1.HINDI.in" tvg-name="IN: STAR SPORTS 1 HINDI SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ee28fa483fd6ed3f989bd4c1bb0eab6b.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 1 HINDI SD
+http://5giptv.xyz:8880/94863529/65843757/1042279
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HD.in" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 2 HD
+http://5giptv.xyz:8880/94863529/65843757/179342
+#EXTINF:-1 tvg-id="STAR.SPORTS.2.HINDI.HD.in" tvg-name="IN: STAR SPORT 2 HINDH HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORT 2 HINDH HD
+http://5giptv.xyz:8880/94863529/65843757/32139
+#EXTINF:-1 tvg-id="STAR.SPORTS.3.in" tvg-name="IN: STAR SPORTS 3 SD ENG" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1b697c9952c2b629729569e9b64a5249.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 3 SD ENG
+http://5giptv.xyz:8880/94863529/65843757/179353
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/8e8b373b9cffe7f4fe7a4097d3080ba1.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS SELECT 2 HD
+http://5giptv.xyz:8880/94863529/65843757/32158
+#EXTINF:-1 tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="IN: STAR SPORTS SELECT 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7c4491a30a3a8e479a892edae4ca81b5.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS SELECT 1 HD
+http://5giptv.xyz:8880/94863529/65843757/60141
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD TAMIL" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c9b1a43f3979676efb34cb2fb0c7b1b8.png" group-title="IN - INDIAN SPORTS - LIVE",IN: STAR SPORTS 2 HD TAMIL
+http://5giptv.xyz:8880/94863529/65843757/1046113
+#EXTINF:-1 tvg-id="EUROSPORTS.HD.in" tvg-name="IN: Europsorts HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/864df3f9f529dd21705f6051745f9a0d.png" group-title="IN - INDIAN SPORTS - LIVE",IN: Europsorts HD 
+http://5giptv.xyz:8880/94863529/65843757/179146
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest/scale-to-width-down/460?cb=20221025090401" group-title="IN - INDIAN SPORTS - LIVE",Sony Ten 4 HD
+http://5giptv.xyz:8880/94863529/65843757/325174
+#EXTINF:-1 tvg-id="" tvg-name="IN: MOTU-PATLU 24 7 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NZLkeFgIfjSw2BsltQPzIJMdpNrFcb7Hgg&s" group-title="IN - KIDS CARTOON - LIVE",IN: MOTU-PATLU 24 7 HD
+http://5giptv.xyz:8880/94863529/65843757/1056197
+#EXTINF:-1 tvg-id="SONIC.NICKELODEON.in" tvg-name=" IN: NICK HINDHI SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6a8784ce34c59a4e891e7274587857ae.png" group-title="IN - KIDS CARTOON - LIVE", IN: NICK HINDHI SD
+http://5giptv.xyz:8880/94863529/65843757/325220
+#EXTINF:-1 tvg-id="Sony.yay.in" tvg-name="IN: SONY YAY SD" tvg-logo="https://pbs.twimg.com/profile_images/1585530858186104832/1UsrsUMV_400x400.jpg" group-title="IN - KIDS CARTOON - LIVE",IN: SONY YAY SD
+http://5giptv.xyz:8880/94863529/65843757/32174
+#EXTINF:-1 tvg-id="" tvg-name=" IN: POGO SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c6c3ed7455f000f1988f68575dcf59da.png" group-title="IN - KIDS CARTOON - LIVE", IN: POGO SD
+http://5giptv.xyz:8880/94863529/65843757/191564
+#EXTINF:-1 tvg-id="" tvg-name=" IN: NICK Junior  SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="IN - KIDS CARTOON - LIVE", IN: NICK Junior  SD
+http://5giptv.xyz:8880/94863529/65843757/325513
+#EXTINF:-1 tvg-id="" tvg-name="IN: DIsney Channel sd" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7b38e4f12ac8a22b416f2c15029921cb.png" group-title="IN - KIDS CARTOON - LIVE",IN: DIsney Channel sd
+http://5giptv.xyz:8880/94863529/65843757/108628
+#EXTINF:-1 tvg-id="" tvg-name="IN: DIsney Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7b38e4f12ac8a22b416f2c15029921cb.png" group-title="IN - KIDS CARTOON - LIVE",IN: DIsney Channel HD
+http://5giptv.xyz:8880/94863529/65843757/325150
+#EXTINF:-1 tvg-id="SONIC.NICKELODEON.in" tvg-name="IN Sonic Hindi " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a80c5c214c380fe6062591e42049da1b.png" group-title="IN - KIDS CARTOON - LIVE",IN Sonic Hindi 
+http://5giptv.xyz:8880/94863529/65843757/325511
+#EXTINF:-1 tvg-id="" tvg-name="IN: Cartoon Network SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b827827b80b13904f6ca3b46f44ee8f4.png" group-title="IN - KIDS CARTOON - LIVE",IN: Cartoon Network SD
+http://5giptv.xyz:8880/94863529/65843757/191549
+#EXTINF:-1 tvg-id="ZEE.RAJASTHAN.NEWS.in" tvg-name="IN: Cartoon Network  HD+" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b827827b80b13904f6ca3b46f44ee8f4.png" group-title="IN - KIDS CARTOON - LIVE",IN: Cartoon Network  HD+
+http://5giptv.xyz:8880/94863529/65843757/111638
+#EXTINF:-1 tvg-id="" tvg-name=" IN: Discovery KIDS SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d640e4f65b8fef1077ab77d037409d4d.png" group-title="IN - KIDS CARTOON - LIVE", IN: Discovery KIDS SD
+http://5giptv.xyz:8880/94863529/65843757/191566
+#EXTINF:-1 tvg-id="" tvg-name="IN: WoW Kidz TV" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9c2afd9d3427fd87703656a89050a283.png" group-title="IN - KIDS CARTOON - LIVE",IN: WoW Kidz TV
+http://5giptv.xyz:8880/94863529/65843757/1043123
+#EXTINF:-1 tvg-id="" tvg-name="IN: Planet Fun HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9a1de0e867e7bf9d1e15b3d2b1e44410.png" group-title="IN - KIDS CARTOON - LIVE",IN: Planet Fun HD
+http://5giptv.xyz:8880/94863529/65843757/191551
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.WORLD.in" tvg-name="IN: ANIMAL PLANET ENG HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/77879330041.png" group-title="IN - DOCUMENTARY - LIVE",IN: ANIMAL PLANET ENG HD
+http://5giptv.xyz:8880/94863529/65843757/586730
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.in" tvg-name="IN: ANIMAL PLANET HINDH HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/3174409551.jpg" group-title="IN - DOCUMENTARY - LIVE",IN: ANIMAL PLANET HINDH HD
+http://5giptv.xyz:8880/94863529/65843757/466050
+#EXTINF:-1 tvg-id="" tvg-name="IN SONY BBC ENG HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/8129620278.png" group-title="IN - DOCUMENTARY - LIVE",IN SONY BBC ENG HD
+http://5giptv.xyz:8880/94863529/65843757/60152
+#EXTINF:-1 tvg-id="" tvg-name="IN: BBC Earth Hindi HD" tvg-logo="http://img-cdn.curl.pk:8880/chimg/b53118cfb940d29ae313b3ff2a97973f.jpg" group-title="IN - DOCUMENTARY - LIVE",IN: BBC Earth Hindi HD
+http://5giptv.xyz:8880/94863529/65843757/179127
+#EXTINF:-1 tvg-id="RAJ.MUSIX.MALAYALAM.in" tvg-name="IN: National Geographic ENG HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/26991132821.png" group-title="IN - DOCUMENTARY - LIVE",IN: National Geographic ENG HD
+http://5giptv.xyz:8880/94863529/65843757/60146
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.in" tvg-name="IN: National GEO HINDI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/50353419321.png" group-title="IN - DOCUMENTARY - LIVE",IN: National GEO HINDI HD
+http://5giptv.xyz:8880/94863529/65843757/586733
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEOENG HD " tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/71d2c00e3e765aa4ce7efa370ab183f9.png" group-title="IN - DOCUMENTARY - LIVE",IN: NAT GEOENG HD 
+http://5giptv.xyz:8880/94863529/65843757/465835
+#EXTINF:-1 tvg-id="" tvg-name="IN: NAT GEO WILD HD HINDI" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/14464391491.png" group-title="IN - DOCUMENTARY - LIVE",IN: NAT GEO WILD HD HINDI
+http://5giptv.xyz:8880/94863529/65843757/547645
+#EXTINF:-1 tvg-id="TRAVEL.XP.(SD).in" tvg-name="IN: DISCOVERY HD ENG" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/16399646921.png" group-title="IN - DOCUMENTARY - LIVE",IN: DISCOVERY HD ENG
+http://5giptv.xyz:8880/94863529/65843757/325213
+#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY HINDH HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/67105710731.png" group-title="IN - DOCUMENTARY - LIVE",IN: DISCOVERY HINDH HD
+http://5giptv.xyz:8880/94863529/65843757/325394
+#EXTINF:-1 tvg-id="" tvg-name="IN: DISCOVERY SCIENCE ENG SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10271136661.png" group-title="IN - DOCUMENTARY - LIVE",IN: DISCOVERY SCIENCE ENG SD
+http://5giptv.xyz:8880/94863529/65843757/325230
+#EXTINF:-1 tvg-id="" tvg-name="IN: Discovery Science Hindi HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/10271136661.png" group-title="IN - DOCUMENTARY - LIVE",IN: Discovery Science Hindi HD
+http://5giptv.xyz:8880/94863529/65843757/325251
+#EXTINF:-1 tvg-id="" tvg-name="IN: INVST  DISCOVERY HINDH SD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/25853500771.png" group-title="IN - DOCUMENTARY - LIVE",IN: INVST  DISCOVERY HINDH SD
+http://5giptv.xyz:8880/94863529/65843757/325393
+#EXTINF:-1 tvg-id="" tvg-name="IN: HISTORY TV ENG HD" tvg-logo="http://img-cdn.curl.pk:8880/jio_icon/65200175131.png" group-title="IN - DOCUMENTARY - LIVE",IN: HISTORY TV ENG HD
+http://5giptv.xyz:8880/94863529/65843757/586731
+#EXTINF:-1 tvg-id="" tvg-name="IN: HISTORY TV HINDH HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/41937615481.png" group-title="IN - DOCUMENTARY - LIVE",IN: HISTORY TV HINDH HD
+http://5giptv.xyz:8880/94863529/65843757/325187
+#EXTINF:-1 tvg-id="" tvg-name="IN: TRAVEL XP HINDI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/78232829731.png" group-title="IN - DOCUMENTARY - LIVE",IN: TRAVEL XP HINDI HD
+http://5giptv.xyz:8880/94863529/65843757/111939
+#EXTINF:-1 tvg-id="" tvg-name="IN: TLC HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/72801574231.png" group-title="IN - DOCUMENTARY - LIVE",IN: TLC HD
+http://5giptv.xyz:8880/94863529/65843757/586734
+#EXTINF:-1 tvg-id="" tvg-name="IN: Love Nature HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/69467233771.png" group-title="IN - DOCUMENTARY - LIVE",IN: Love Nature HD
+http://5giptv.xyz:8880/94863529/65843757/466054
+#EXTINF:-1 tvg-id="" tvg-name="IN: MTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5c40243daf99de738a6c3aa37ddc2e98.png" group-title="IN - VIP Music TV - Live",IN: MTV HD
+http://5giptv.xyz:8880/94863529/65843757/1043111
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="PK: 8XM MUSIC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/478b1e330bf1ed48d18e941ddcad0c44.png" group-title="IN - VIP Music TV - Live",PK: 8XM MUSIC HD
+http://5giptv.xyz:8880/94863529/65843757/106304
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="IN: B4U Music SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1cae6fa8501d630d3c8478789a03a6fb.png" group-title="IN - VIP Music TV - Live",IN: B4U Music SD
+http://5giptv.xyz:8880/94863529/65843757/32185
+#EXTINF:-1 tvg-id="" tvg-name="IN: 9xm SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a183b4fd3e514951b36fa7aafd1f93c5.png" group-title="IN - VIP Music TV - Live",IN: 9xm SD
+http://5giptv.xyz:8880/94863529/65843757/106297
+#EXTINF:-1 tvg-id="Shemaroo.TV.in" tvg-name="IN: ZOOM MUSIC SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d9337cc5610194125ef5cd6a7a7dc335.png" group-title="IN - VIP Music TV - Live",IN: ZOOM MUSIC SD
+http://5giptv.xyz:8880/94863529/65843757/111669
+#EXTINF:-1 tvg-id="Pitaara.in" tvg-name="IN: Pitaara HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d07358c36108de641077b9affd633d29.png" group-title="IN - VIP Music TV - Live",IN: Pitaara HD
+http://5giptv.xyz:8880/94863529/65843757/106307
+#EXTINF:-1 tvg-id="" tvg-name="IN: YRF Music" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/057393c266b27cd20c94ae23a44a56b7.png" group-title="IN - VIP Music TV - Live",IN: YRF Music
+http://5giptv.xyz:8880/94863529/65843757/584457
+#EXTINF:-1 tvg-id="COLORS.BANGLA.in" tvg-name="IN: Balle Balle" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/deb7c2f8ac51468caade91b0221e3929.png" group-title="IN - VIP Music TV - Live",IN: Balle Balle
+http://5giptv.xyz:8880/94863529/65843757/32123
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="PK JALWA MUSIC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/bd4ea277c5c855ecec4dc0cc2cc1c6d0.png" group-title="IN - VIP Music TV - Live",PK JALWA MUSIC HD
+http://5giptv.xyz:8880/94863529/65843757/32124
+#EXTINF:-1 tvg-id="9X.Jalwa.in" tvg-name="IN: 9X JALWA" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/3d50141a43f91d047f65e527dd9854d9.png" group-title="IN - VIP Music TV - Live",IN: 9X JALWA
+http://5giptv.xyz:8880/94863529/65843757/579367
+#EXTINF:-1 tvg-id="B4U.MUSIC.in" tvg-name="B4U Plus" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5ccc4885b1a2bcd696548c83dc5f72f5.png" group-title="IN - VIP Music TV - Live",B4U Plus
+http://5giptv.xyz:8880/94863529/65843757/326592
+#EXTINF:-1 tvg-id="Zee.News.in" tvg-name="IND: ZEE News HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d77d78bd680fedc47e256041328cc991.png" group-title="IN - Hindi News - Live",IND: ZEE News HD
+http://5giptv.xyz:8880/94863529/65843757/32154
+#EXTINF:-1 tvg-id="" tvg-name="IND: AAJ TAK SD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/0e6631c43a3d77771b2848d5bd5e4bcc.png" group-title="IN - Hindi News - Live",IND: AAJ TAK SD
+http://5giptv.xyz:8880/94863529/65843757/586764
+#EXTINF:-1 tvg-id="NEWS.LIVE.in" tvg-name="IND: DD India HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5d7aa6a9cc562319ad9b39b4878e0415.png" group-title="IN - Hindi News - Live",IND: DD India HD
+http://5giptv.xyz:8880/94863529/65843757/111792
+#EXTINF:-1 tvg-id="INDIA.TODAY.in" tvg-name="IND:  India Today NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7cc0dd4cb81a930b6cd402563aa0c236.png" group-title="IN - Hindi News - Live",IND:  India Today NEWS HD
+http://5giptv.xyz:8880/94863529/65843757/32098
+#EXTINF:-1 tvg-id="" tvg-name="IND:  NDTV HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/fcc5da3ce2f8c9f5550364d05489e801.png" group-title="IN - Hindi News - Live",IND:  NDTV HD 
+http://5giptv.xyz:8880/94863529/65843757/60171
+#EXTINF:-1 tvg-id="" tvg-name="IND: NEWS 18 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/c219076c1bd8b47c731b3110e7665db0.png" group-title="IN - Hindi News - Live",IND: NEWS 18 HD
+http://5giptv.xyz:8880/94863529/65843757/60170
+#EXTINF:-1 tvg-id="CNBC.TV18.in" tvg-name="IND:  News 24 Live HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9a077b036f10791078dfe03cac38edff.png" group-title="IN - Hindi News - Live",IND:  News 24 Live HD
+http://5giptv.xyz:8880/94863529/65843757/325248
+#EXTINF:-1 tvg-id="" tvg-name="IND:  ABP NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/72fb1e5ccea6268746636d1ad3c9ccfd.png" group-title="IN - Hindi News - Live",IND:  ABP NEWS HD
+http://5giptv.xyz:8880/94863529/65843757/179139
+#EXTINF:-1 tvg-id="" tvg-name="IND:  CNBC Awaaz HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5e0a48dcf6617d5b7bf4b35870b00308.png" group-title="IN - Hindi News - Live",IND:  CNBC Awaaz HD
+http://5giptv.xyz:8880/94863529/65843757/325247
+#EXTINF:-1 tvg-id="" tvg-name="IND:  Republic TV HD ( English" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4055b9a0677bb764c3aadf230d54e52a.png" group-title="IN - Hindi News - Live",IND:  Republic TV HD ( English
+http://5giptv.xyz:8880/94863529/65843757/696332
+#EXTINF:-1 tvg-id="" tvg-name="IND: Times Now Navbharat HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/86ba5906ea22330a84bc5a1e91134151.png" group-title="IN - Hindi News - Live",IND: Times Now Navbharat HD
+http://5giptv.xyz:8880/94863529/65843757/325370
+#EXTINF:-1 tvg-id="" tvg-name="IND: India NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7637dc57486c4d3e2469fad9d44665fe.png" group-title="IN - Hindi News - Live",IND: India NEWS HD
+http://5giptv.xyz:8880/94863529/65843757/325366
+#EXTINF:-1 tvg-id="" tvg-name="IND:  JK NEWS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/930b77f390fbe4fcc377f28aa947af92.png" group-title="IN - Hindi News - Live",IND:  JK NEWS HD
+http://5giptv.xyz:8880/94863529/65843757/325369
+#EXTINF:-1 tvg-id="" tvg-name="IND:   TV9 Bharatvarsh HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/9d12841dcb0afccf4e0704402ef28d88.png" group-title="IN - Hindi News - Live",IND:   TV9 Bharatvarsh HD
+http://5giptv.xyz:8880/94863529/65843757/325368
+#EXTINF:-1 tvg-id="" tvg-name="IND:  Zee News HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d77d78bd680fedc47e256041328cc991.png" group-title="IN - Hindi News - Live",IND:  Zee News HD
+http://5giptv.xyz:8880/94863529/65843757/179128
+#EXTINF:-1 tvg-id="" tvg-name="IND: India Today HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/7cc0dd4cb81a930b6cd402563aa0c236.png" group-title="IN - Hindi News - Live",IND: India Today HD
+http://5giptv.xyz:8880/94863529/65843757/325361
+#EXTINF:-1 tvg-id="" tvg-name="IND: NEWS X HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/753fbf809d9d1de15c60ec7b834eea7a.png" group-title="IN - Hindi News - Live",IND: NEWS X HD 
+http://5giptv.xyz:8880/94863529/65843757/325367
+#EXTINF:-1 tvg-id="REPUBLIC.BHARAT.in" tvg-name="IND: Republic Bharat HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/092e78de8f8ecdc7d1a141ad02ac5c99.png" group-title="IN - Hindi News - Live",IND: Republic Bharat HD 
+http://5giptv.xyz:8880/94863529/65843757/325259
+#EXTINF:-1 tvg-id="" tvg-name="IND: Times NOW HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/86ba5906ea22330a84bc5a1e91134151.png" group-title="IN - Hindi News - Live",IND: Times NOW HD 
+http://5giptv.xyz:8880/94863529/65843757/325254
+#EXTINF:-1 tvg-id="" tvg-name="IND: WION TV HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5465ae856bf4b01785a01532282f5898.png" group-title="IN - Hindi News - Live",IND: WION TV HD 
+http://5giptv.xyz:8880/94863529/65843757/325211
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE Bihar JH HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d5673c8d7ff969c0ae5f7d004cf4db2a.png" group-title="IN - Hindi News - Live",IND: ZEE Bihar JH HD 
+http://5giptv.xyz:8880/94863529/65843757/325205
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE Business HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6c0e3352e46df68dcbd7bd0d7bbadb3d.png" group-title="IN - Hindi News - Live",IND: ZEE Business HD 
+http://5giptv.xyz:8880/94863529/65843757/325200
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE Hindustan HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/81956548991.png" group-title="IN - Hindi News - Live",IND: ZEE Hindustan HD
+http://5giptv.xyz:8880/94863529/65843757/325204
+#EXTINF:-1 tvg-id="ZEE.MP.CHATTISGARH.in" tvg-name="IND: ZEE MP " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/fb7ee4fd61f756ea835d356b97661f96.png" group-title="IN - Hindi News - Live",IND: ZEE MP 
+http://5giptv.xyz:8880/94863529/65843757/325381
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZEE UP UK HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/03321640538e365ed71bf97ae4c6263a.png" group-title="IN - Hindi News - Live",IND: ZEE UP UK HD 
+http://5giptv.xyz:8880/94863529/65843757/325206
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: ACRIME MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: ACRIME MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822627
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: ACTION MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: ACTION MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822628
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: ADVENTURE MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: ADVENTURE MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822629
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: BIOGRAPHY MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: BIOGRAPHY MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822630
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: COMEDY MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: COMEDY MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822631
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: DRAMA MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: DRAMA MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822632
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: FANTASY MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: FANTASY MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822633
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: MUSICAL MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: MUSICAL MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822634
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: MYSTERY MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: MYSTERY MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822635
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: ROMANCE MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: ROMANCE MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822636
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: SCI FI MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: SCI FI MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822637
+#EXTINF:-1 tvg-id="" tvg-name="  AZ: THRILLER MOVIES HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Amazon Movies - Exclusive",  AZ: THRILLER MOVIES HD
+http://5giptv.xyz:8880/94863529/65843757/822638
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 1 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 1 FHD
+http://5giptv.xyz:8880/94863529/65843757/822936
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 2 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 2 FHD
+http://5giptv.xyz:8880/94863529/65843757/822937
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 3 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 3 FHD
+http://5giptv.xyz:8880/94863529/65843757/822938
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 4 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 4 FHD
+http://5giptv.xyz:8880/94863529/65843757/822939
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 5 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 5 FHD
+http://5giptv.xyz:8880/94863529/65843757/822940
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 6 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 6 FHD
+http://5giptv.xyz:8880/94863529/65843757/822941
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 7 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 7 FHD
+http://5giptv.xyz:8880/94863529/65843757/822942
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 8 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 8 FHD
+http://5giptv.xyz:8880/94863529/65843757/822943
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 9 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 9 FHD
+http://5giptv.xyz:8880/94863529/65843757/822944
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 10 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 10 FHD
+http://5giptv.xyz:8880/94863529/65843757/822945
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 11 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 11 FHD
+http://5giptv.xyz:8880/94863529/65843757/822946
+#EXTINF:-1 tvg-id="" tvg-name="  CM: Animation Hindi 12 FHD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Animation - Exclusive",  CM: Animation Hindi 12 FHD
+http://5giptv.xyz:8880/94863529/65843757/822947
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Adventure Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Adventure Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818579
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Crime Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Crime Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818580
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Drama Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Drama Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818581
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818582
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818583
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818584
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818585
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 7 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 7 HD
+http://5giptv.xyz:8880/94863529/65843757/818586
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies 8 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies 8 HD
+http://5giptv.xyz:8880/94863529/65843757/818587
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818588
+#EXTINF:-1 tvg-id="" tvg-name="IN Action Thriller Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Action Thriller Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818589
+#EXTINF:-1 tvg-id="" tvg-name="IN Acton Comedy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Acton Comedy Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818590
+#EXTINF:-1 tvg-id="" tvg-name="IN Adventure Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Adventure Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818591
+#EXTINF:-1 tvg-id="" tvg-name="IN Animated Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Animated Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818592
+#EXTINF:-1 tvg-id="" tvg-name="IN Biography Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Biography Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818599
+#EXTINF:-1 tvg-id="" tvg-name="IN Blockbuster Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Blockbuster Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818600
+#EXTINF:-1 tvg-id="" tvg-name="IN Horror Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Horror Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818641
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818593
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818594
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818595
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818596
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818597
+#EXTINF:-1 tvg-id="" tvg-name="IN Average Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Average Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818598
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818601
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action HD
+http://5giptv.xyz:8880/94863529/65843757/818602
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818603
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818604
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818605
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Action Movies Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Action Movies Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818606
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Adventure Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Adventure Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818607
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Biography Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Biography Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818608
+#EXTINF:-1 tvg-id="" tvg-name="IN Classic Comedy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Classic Comedy Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818609
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Drama Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Drama Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818610
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818611
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818612
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818613
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818614
+#EXTINF:-1 tvg-id="" tvg-name="IN Comedy Romance Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Comedy Romance Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818615
+#EXTINF:-1 tvg-id="" tvg-name="IN Crime Drama Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Crime Drama Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818616
+#EXTINF:-1 tvg-id="" tvg-name="IN Crime Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Crime Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818617
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818618
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818619
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818620
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818621
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818622
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies 7 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies 7 HD
+http://5giptv.xyz:8880/94863529/65843757/818623
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818624
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Romance Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Romance Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818625
+#EXTINF:-1 tvg-id="" tvg-name="IN Drama Thriller Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Drama Thriller Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818626
+#EXTINF:-1 tvg-id="" tvg-name="IN Erosnow Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Erosnow Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818627
+#EXTINF:-1 tvg-id="" tvg-name="IN Erosnow Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Erosnow Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818628
+#EXTINF:-1 tvg-id="" tvg-name="IN Erosnow Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Erosnow Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818629
+#EXTINF:-1 tvg-id="" tvg-name="IN Family Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Family Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818630
+#EXTINF:-1 tvg-id="" tvg-name="IN Fantasy Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Fantasy Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818631
+#EXTINF:-1 tvg-id="" tvg-name="IN History Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN History Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818632
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818633
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818634
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818635
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818636
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818637
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818638
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 7 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 7 HD
+http://5giptv.xyz:8880/94863529/65843757/818639
+#EXTINF:-1 tvg-id="" tvg-name="IN HIT Movies 8 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN HIT Movies 8 HD
+http://5giptv.xyz:8880/94863529/65843757/818640
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818652
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818662
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818663
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 4 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 4 HD
+http://5giptv.xyz:8880/94863529/65843757/818664
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 5 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 5 HD
+http://5giptv.xyz:8880/94863529/65843757/818665
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 6 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 6 HD
+http://5giptv.xyz:8880/94863529/65843757/818666
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 7 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 7 HD
+http://5giptv.xyz:8880/94863529/65843757/818667
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 8 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 8 HD
+http://5giptv.xyz:8880/94863529/65843757/818668
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 9 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 9 HD
+http://5giptv.xyz:8880/94863529/65843757/818669
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 10 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 10 HD
+http://5giptv.xyz:8880/94863529/65843757/818642
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 11 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 11 HD
+http://5giptv.xyz:8880/94863529/65843757/818643
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 12 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 12 HD
+http://5giptv.xyz:8880/94863529/65843757/818644
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 13 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 13 HD
+http://5giptv.xyz:8880/94863529/65843757/818645
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 14 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 14 HD
+http://5giptv.xyz:8880/94863529/65843757/818646
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 15 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 15 HD
+http://5giptv.xyz:8880/94863529/65843757/818647
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 16 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 16 HD
+http://5giptv.xyz:8880/94863529/65843757/818648
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 17 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 17 HD
+http://5giptv.xyz:8880/94863529/65843757/818649
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 18 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 18 HD
+http://5giptv.xyz:8880/94863529/65843757/818650
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 19 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 19 HD
+http://5giptv.xyz:8880/94863529/65843757/818651
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 20 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 20 HD
+http://5giptv.xyz:8880/94863529/65843757/818653
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 21 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 21 HD
+http://5giptv.xyz:8880/94863529/65843757/818654
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 22 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 22 HD
+http://5giptv.xyz:8880/94863529/65843757/818655
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 23 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 23 HD
+http://5giptv.xyz:8880/94863529/65843757/818656
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 24 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 24 HD
+http://5giptv.xyz:8880/94863529/65843757/818657
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 25 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 25 HD
+http://5giptv.xyz:8880/94863529/65843757/818658
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 26 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 26 HD
+http://5giptv.xyz:8880/94863529/65843757/818659
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 27 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 27 HD
+http://5giptv.xyz:8880/94863529/65843757/818660
+#EXTINF:-1 tvg-id="" tvg-name="IN Movies 28 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Movies 28 HD
+http://5giptv.xyz:8880/94863529/65843757/818661
+#EXTINF:-1 tvg-id="" tvg-name="IN Musical Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Musical Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818670
+#EXTINF:-1 tvg-id="" tvg-name="IN Mystery Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Mystery Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818671
+#EXTINF:-1 tvg-id="" tvg-name="IN Shemaroo Classic Movies 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Shemaroo Classic Movies 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818672
+#EXTINF:-1 tvg-id="" tvg-name="IN Shemaroo Classic Movies 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Shemaroo Classic Movies 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818673
+#EXTINF:-1 tvg-id="" tvg-name="IN Shemaroo Classic Movies 3 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Shemaroo Classic Movies 3 HD
+http://5giptv.xyz:8880/94863529/65843757/818674
+#EXTINF:-1 tvg-id="" tvg-name="IN Shemaroo Movie 1 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Shemaroo Movie 1 HD
+http://5giptv.xyz:8880/94863529/65843757/818675
+#EXTINF:-1 tvg-id="" tvg-name="IN Shemaroo Movie 2 HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Shemaroo Movie 2 HD
+http://5giptv.xyz:8880/94863529/65843757/818676
+#EXTINF:-1 tvg-id="" tvg-name="IN Sports Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Sports Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818677
+#EXTINF:-1 tvg-id="" tvg-name="IN Thriller Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Thriller Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818678
+#EXTINF:-1 tvg-id="" tvg-name="IN Venus Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Venus Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818679
+#EXTINF:-1 tvg-id="" tvg-name="IN WAR Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN WAR Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818680
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Apharan HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Apharan HD
+http://5giptv.xyz:8880/94863529/65843757/818565
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Baarish HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Baarish HD
+http://5giptv.xyz:8880/94863529/65843757/818566
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries BOSE DEAD OR Alive HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries BOSE DEAD OR Alive HD
+http://5giptv.xyz:8880/94863529/65843757/818567
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Broken BUT Beautiful HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Broken BUT Beautiful HD
+http://5giptv.xyz:8880/94863529/65843757/818568
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries HAQ SE HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries HAQ SE HD
+http://5giptv.xyz:8880/94863529/65843757/818569
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries HOME HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries HOME HD
+http://5giptv.xyz:8880/94863529/65843757/818570
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Hostel DAZE HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Hostel DAZE HD
+http://5giptv.xyz:8880/94863529/65843757/818571
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Kaiser HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Kaiser HD
+http://5giptv.xyz:8880/94863529/65843757/818572
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Kehne KO Humsafar HAIN HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Kehne KO Humsafar HAIN HD
+http://5giptv.xyz:8880/94863529/65843757/818573
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Laakhon MEIN EK HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Laakhon MEIN EK HD
+http://5giptv.xyz:8880/94863529/65843757/818574
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Modern LOVE OF Mumbai HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Modern LOVE OF Mumbai HD
+http://5giptv.xyz:8880/94863529/65843757/818575
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Mumbai Diraies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Mumbai Diraies HD
+http://5giptv.xyz:8880/94863529/65843757/818576
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries THE TEST CASE HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries THE TEST CASE HD
+http://5giptv.xyz:8880/94863529/65843757/818577
+#EXTINF:-1 tvg-id="" tvg-name="IN Webseries Virgin Bhasskar HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Hindi Movies - Exclusive",IN Webseries Virgin Bhasskar HD
+http://5giptv.xyz:8880/94863529/65843757/818578
+#EXTINF:-1 tvg-id="" tvg-name="IN: Abhay DEOL Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Abhay DEOL Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818681
+#EXTINF:-1 tvg-id="" tvg-name="IN: Abhishek Bachchan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Abhishek Bachchan Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818682
+#EXTINF:-1 tvg-id="" tvg-name="IN: Actor ANIL Kapoor HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Actor ANIL Kapoor HD
+http://5giptv.xyz:8880/94863529/65843757/818683
+#EXTINF:-1 tvg-id="" tvg-name="IN: Actor Hrthik Roshan HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Actor Hrthik Roshan HD
+http://5giptv.xyz:8880/94863529/65843757/818684
+#EXTINF:-1 tvg-id="" tvg-name="IN: Actor Rajesh Khanna HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Actor Rajesh Khanna HD
+http://5giptv.xyz:8880/94863529/65843757/818685
+#EXTINF:-1 tvg-id="" tvg-name="IN: Actor Vidyut Jammwal HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Actor Vidyut Jammwal HD
+http://5giptv.xyz:8880/94863529/65843757/818686
+#EXTINF:-1 tvg-id="" tvg-name="IN: Aftab Shivdasni Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Aftab Shivdasni Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818687
+#EXTINF:-1 tvg-id="" tvg-name="IN: AJAY Devgan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: AJAY Devgan Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818688
+#EXTINF:-1 tvg-id="" tvg-name="IN: Akshey Kumar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Akshey Kumar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818689
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amitabh Bachan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Amitabh Bachan Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818690
+#EXTINF:-1 tvg-id="" tvg-name="IN: Amrish PURI Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Amrish PURI Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818691
+#EXTINF:-1 tvg-id="" tvg-name="IN: Anupam KHER Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Anupam KHER Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818692
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ayushman Khurrana Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Ayushman Khurrana Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818693
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bharat Bhushan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Bharat Bhushan Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818694
+#EXTINF:-1 tvg-id="" tvg-name="IN: Bobby DEOL Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Bobby DEOL Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818695
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boman Irani Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Boman Irani Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818696
+#EXTINF:-1 tvg-id="" tvg-name="IN: DEV Anand Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: DEV Anand Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818697
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dharmendra Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Dharmendra Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818698
+#EXTINF:-1 tvg-id="" tvg-name="IN: Dilip Kumar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Dilip Kumar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818699
+#EXTINF:-1 tvg-id="" tvg-name="IN: Emraan Hashmi Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Emraan Hashmi Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818700
+#EXTINF:-1 tvg-id="" tvg-name="IN: Farhan Akthar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Farhan Akthar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818701
+#EXTINF:-1 tvg-id="" tvg-name="IN: Feroz KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Feroz KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818702
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gulshan Grover Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Gulshan Grover Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818703
+#EXTINF:-1 tvg-id="" tvg-name="IN: Irfan KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Irfan KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818704
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jackie Shroff Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Jackie Shroff Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818705
+#EXTINF:-1 tvg-id="" tvg-name="IN: JHON Abraham HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: JHON Abraham HD
+http://5giptv.xyz:8880/94863529/65843757/818707
+#EXTINF:-1 tvg-id="" tvg-name="IN: Jhony Walker Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Jhony Walker Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818706
+#EXTINF:-1 tvg-id="" tvg-name="IN: Johnny Lever Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Johnny Lever Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818708
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kader KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Kader KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818709
+#EXTINF:-1 tvg-id="" tvg-name="IN: KAY KAY Menon Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: KAY KAY Menon Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818710
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kunal Khemu Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Kunal Khemu Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818711
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mehmood Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Mehmood Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818712
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mitrhan Chakraborty Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Mitrhan Chakraborty Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818713
+#EXTINF:-1 tvg-id="" tvg-name="IN: NANA Patekar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: NANA Patekar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818714
+#EXTINF:-1 tvg-id="" tvg-name="IN: Naseerudin SHAH Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Naseerudin SHAH Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818715
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nawazuddin Siddiqui Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Nawazuddin Siddiqui Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818716
+#EXTINF:-1 tvg-id="" tvg-name="IN: OM PURI Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: OM PURI Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818717
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pankaj Tripathi Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Pankaj Tripathi Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818718
+#EXTINF:-1 tvg-id="" tvg-name="IN: Paresh Rawal Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Paresh Rawal Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818719
+#EXTINF:-1 tvg-id="" tvg-name="IN: PREM Chopra Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: PREM Chopra Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818720
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rahul DEV Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Rahul DEV Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818721
+#EXTINF:-1 tvg-id="" tvg-name="IN: RAJ Babbar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: RAJ Babbar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818724
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rajendr Kumar Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Rajendr Kumar Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818722
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rajkumaar RAO Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Rajkumaar RAO Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818723
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ranbir Kapoor Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Ranbir Kapoor Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818725
+#EXTINF:-1 tvg-id="" tvg-name="IN: Randeep Hooda Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Randeep Hooda Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818726
+#EXTINF:-1 tvg-id="" tvg-name="IN: Ranveer Singh Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Ranveer Singh Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818727
+#EXTINF:-1 tvg-id="" tvg-name="IN: Rishi Kapoor Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Rishi Kapoor Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818728
+#EXTINF:-1 tvg-id="" tvg-name="IN: SAIF ALI KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: SAIF ALI KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818729
+#EXTINF:-1 tvg-id="" tvg-name="IN: Salman KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Salman KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818730
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanjay DUTT Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Sanjay DUTT Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818731
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sanjay Mishra Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Sanjay Mishra Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818732
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shakti Kapoor Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Shakti Kapoor Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818733
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shammi Kapoor Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Shammi Kapoor Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818734
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sharman Joshi Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Sharman Joshi Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818735
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shatrughan Sinha Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Shatrughan Sinha Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818736
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sohail KHAN Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Sohail KHAN Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818737
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONU SOOD Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: SONU SOOD Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818738
+#EXTINF:-1 tvg-id="" tvg-name="IN: Suniel Shetty Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Suniel Shetty Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818739
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sushant Singh Rajput Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Sushant Singh Rajput Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818740
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tiger Shroff Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Tiger Shroff Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818741
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tusshar Kapoor Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Tusshar Kapoor Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818742
+#EXTINF:-1 tvg-id="" tvg-name="IN: Varun Dhawan Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Varun Dhawan Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818743
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vinood Khanna Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Vinood Khanna Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818744
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vivek Oberoi Movies HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Movies Actors - Exclusive",IN: Vivek Oberoi Movies HD
+http://5giptv.xyz:8880/94863529/65843757/818745
+#EXTINF:-1 tvg-id="" tvg-name="BOllywood SONG HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",BOllywood SONG HD
+http://5giptv.xyz:8880/94863529/65843757/818746
+#EXTINF:-1 tvg-id="" tvg-name="IN: A.R Rahman Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: A.R Rahman Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818747
+#EXTINF:-1 tvg-id="" tvg-name="IN: Abhijeet Bhattacharya Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Abhijeet Bhattacharya Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818748
+#EXTINF:-1 tvg-id="" tvg-name="IN: Adnan SAMI Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Adnan SAMI Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818749
+#EXTINF:-1 tvg-id="" tvg-name="IN: Alisha Chinai Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Alisha Chinai Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818750
+#EXTINF:-1 tvg-id="" tvg-name="IN: ALKA Yagnik Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: ALKA Yagnik Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818751
+#EXTINF:-1 tvg-id="" tvg-name="IN: Anuradha Pawdwal Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Anuradha Pawdwal Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818752
+#EXTINF:-1 tvg-id="" tvg-name="IN: Arjit Singh Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Arjit Singh Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818753
+#EXTINF:-1 tvg-id="" tvg-name="IN: ASHA Bhosle Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: ASHA Bhosle Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818754
+#EXTINF:-1 tvg-id="" tvg-name="IN: Gurur Randhawa Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Gurur Randhawa Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818755
+#EXTINF:-1 tvg-id="" tvg-name="IN: Himesh Reshammiya Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Himesh Reshammiya Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818756
+#EXTINF:-1 tvg-id="" tvg-name="IN: K.K Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: K.K Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818757
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kavita Krishnamurti Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Kavita Krishnamurti Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818758
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kishor Kumar Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Kishor Kumar Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818759
+#EXTINF:-1 tvg-id="" tvg-name="IN: Kunal Ganjawala Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Kunal Ganjawala Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818761
+#EXTINF:-1 tvg-id="" tvg-name="IN: LATA Mangeshkar Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: LATA Mangeshkar Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818762
+#EXTINF:-1 tvg-id="" tvg-name="IN: Lucky ALI Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Lucky ALI Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818763
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mohammad AZIZ Snogs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Mohammad AZIZ Snogs HD
+http://5giptv.xyz:8880/94863529/65843757/818764
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mohammad RAFI Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Mohammad RAFI Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818765
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mohit Chahuan Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Mohit Chahuan Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818766
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mukesh Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Mukesh Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818767
+#EXTINF:-1 tvg-id="" tvg-name="IN: Nakash AZIZ Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Nakash AZIZ Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818768
+#EXTINF:-1 tvg-id="" tvg-name="IN: NEHA Kakkar Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: NEHA Kakkar Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818769
+#EXTINF:-1 tvg-id="" tvg-name="IN: Palak Muchhal Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Palak Muchhal Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818770
+#EXTINF:-1 tvg-id="" tvg-name="IN: Pankaj UDAS Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Pankaj UDAS Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818771
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shaan Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Shaan Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818772
+#EXTINF:-1 tvg-id="" tvg-name="IN: Shreya Ghoshal Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Shreya Ghoshal Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818773
+#EXTINF:-1 tvg-id="" tvg-name="IN: Singer Javed ALI HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Singer Javed ALI HD
+http://5giptv.xyz:8880/94863529/65843757/818774
+#EXTINF:-1 tvg-id="" tvg-name="IN: Singer K S Chithra HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Singer K S Chithra HD
+http://5giptv.xyz:8880/94863529/65843757/818775
+#EXTINF:-1 tvg-id="" tvg-name="IN: Singer SONU Kakkar HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Singer SONU Kakkar HD
+http://5giptv.xyz:8880/94863529/65843757/818776
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sunidhi Chauhan Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Sunidhi Chauhan Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818777
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tulsi Kumar Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Tulsi Kumar Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818779
+#EXTINF:-1 tvg-id="" tvg-name="IN: UDIT Narayan Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: UDIT Narayan Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818780
+#EXTINF:-1 tvg-id="" tvg-name="IN: Vishal Dadlani Songs HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/54089973711.png" group-title="IN - 24x7 Singers - Exclusive",IN: Vishal Dadlani Songs HD
+http://5giptv.xyz:8880/94863529/65843757/818782
+#EXTINF:-1 tvg-id="" tvg-name="PUN || DD PUNJABI" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/31ddef8d15b62db600774254bb6e6a28.png" group-title="IN - Punjabi - Live",PUN || DD PUNJABI
+http://5giptv.xyz:8880/94863529/65843757/880827
+#EXTINF:-1 tvg-id="7S.MUSIC.in" tvg-name="PUN || CHARDIKLA TIME TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a68bcf564a64492969adb0003727cc92.png" group-title="IN - Punjabi - Live",PUN || CHARDIKLA TIME TV HD
+http://5giptv.xyz:8880/94863529/65843757/880830
+#EXTINF:-1 tvg-id="" tvg-name="PUN || 9X TASHAN" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a0f437b8a68640946879dc7a045d1f09.png" group-title="IN - Punjabi - Live",PUN || 9X TASHAN
+http://5giptv.xyz:8880/94863529/65843757/880841
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PTC PUNJABI" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4b359361b3a9bf66a6ccb7542e4c231d.png" group-title="IN - Punjabi - Live",PUN || PTC PUNJABI
+http://5giptv.xyz:8880/94863529/65843757/325472
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PTC NEWS 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/e6dfde7a30ce2e14e2974d4a6d178fb4.png" group-title="IN - Punjabi - Live",PUN || PTC NEWS 4K
+http://5giptv.xyz:8880/94863529/65843757/325244
+#EXTINF:-1 tvg-id="" tvg-name="IN Balle Balle HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/25dc665e4032b4fc49b2b402e4a5c271.png" group-title="IN - Punjabi - Live",IN Balle Balle HD
+http://5giptv.xyz:8880/94863529/65843757/325399
+#EXTINF:-1 tvg-id="" tvg-name="PUN || ABP SANJHA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1ffc104ccbb3a4d61ac0f78d2bad2b00.png" group-title="IN - Punjabi - Live",PUN || ABP SANJHA HD
+http://5giptv.xyz:8880/94863529/65843757/325315
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PUNJABI HITS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f680acb6e6dcdf72c976bf056f4ea20f.png" group-title="IN - Punjabi - Live",PUN || PUNJABI HITS HD
+http://5giptv.xyz:8880/94863529/65843757/325330
+#EXTINF:-1 tvg-id="" tvg-name="PUN || APNA PUNJAB" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/030c295b077384993434ae24dd089bcd.png" group-title="IN - Punjabi - Live",PUN || APNA PUNJAB
+http://5giptv.xyz:8880/94863529/65843757/179179
+#EXTINF:-1 tvg-id="" tvg-name="IN ETC Punjabi HD " tvg-logo="https://img-cdn.curl.pk/channels_icon_api/dbcd3a891fcb7a179c27cd2361bdcd37.png" group-title="IN - Punjabi - Live",IN ETC Punjabi HD 
+http://5giptv.xyz:8880/94863529/65843757/324819
+#EXTINF:-1 tvg-id="" tvg-name="PUN || ZEE PUNJABI HARIYANA NEWS" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/afa77cd691e878abc2609bc1d262de82.png" group-title="IN - Punjabi - Live",PUN || ZEE PUNJABI HARIYANA NEWS
+http://5giptv.xyz:8880/94863529/65843757/325322
+#EXTINF:-1 tvg-id="" tvg-name="PUN || JUS ONE" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/db0a2f1de707827797e2ac70071cced4.png" group-title="IN - Punjabi - Live",PUN || JUS ONE
+http://5giptv.xyz:8880/94863529/65843757/325314
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PTC MUSIC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b0bbc539aed1adaa0e2f4fddafd6d382.png" group-title="IN - Punjabi - Live",PUN || PTC MUSIC HD
+http://5giptv.xyz:8880/94863529/65843757/325326
+#EXTINF:-1 tvg-id="" tvg-name="PUN || GAUDA PUNJAB" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxASEhUQDxIQFQ8QEBAPFRUQDxAPDxUPFREWFxUVFRUZHSogGBolGxUVITIhJSktMS4uFx8zODUuNyguLy4BCgoKDg0OGBAQGisfHR8tLS0tKy03LS8tLSsrLS0tLSstLy0vKy0tLS0tLS0rLSsrLS0tKy0tLS0tLS0tLS0tLf/AABEIAQMAwgMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAACAAEDBQYEBwj/xABMEAACAQMCAwMHBA4HCAMAAAABAgMABBEFEgYhMQcTQRQiMlFhcYEXI1SRFTNCUlNicpOUobLR0tM0Q4KSoqSxCCRzdKOzwfEWJfD/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAQIDBAUGB//EADcRAAIBAwEFBgQFBAIDAAAAAAABAgMEERIFEyExUQYyQWFxkRQiUoEVobHR4SMzQsFD8BZy8f/aAAwDAQACEQMRAD8A8v2e+u7g5eRwtSkGwqkgcChAWKkjIsUAsUAsUA2KAEioLDYoASKq0SmDt99MFsixUkD4oBUAxoBiKgkagGqCRUAqAVAAyZ8T8DiqOGfFllLAVXKnTVzGICgCAoRkICpIFQD4oQNihIqAVAMRQA4qCRiKEjYqADihIiKAagFQkbFANQkaoA1CRVAFQCoBUB01cxDgVJAYFCGFQgVAPQgVAMRQkAihYVANigBqCREUJGoBiKAHFQSNQkVADQkVQBiKAVANUEioBUB1ishhHoAloQwqFRUAqAVAKgFQkErQZBIoWGoBUAJqCRqEjGgBNQSNQkVADQkVQBjQCoBqgkVAdxSshgyJVoMh4oVGIoBUA+KAcCgGIoBYoBAUAzChJGaFhqARFACagkahIJFQBjQkahIiKAGhIqgDEUA1QSKgLisxpgEVBYEioJFigFigyLFCMiAoSI0IHIqQDUEjNQEbU" group-title="IN - Punjabi - Live",PUN || GAUDA PUNJAB
+http://5giptv.xyz:8880/94863529/65843757/179178
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PRIME ASIA" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a46334eb655d595f56225bfc90972a9f.png" group-title="IN - Punjabi - Live",PUN || PRIME ASIA
+http://5giptv.xyz:8880/94863529/65843757/325227
+#EXTINF:-1 tvg-id="" tvg-name="PUN || GLOBAL DESI" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhMTExMSFRIVGBUVFRUVFhUXFRUVFRIXFhUVFRUYHiggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGi0lHSUtNS0tLS0tMi0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKgBLAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAAAwUCBAYHAQj/xABTEAABAwEDBAkODAQFAwUAAAABAAIDBAUREgYhUdETMUFVYZGTsrMHIiQlM1RxcnOBkpSx0hQjMjRCUmJjZGWhwXSCtOEVFhcmU0XE8DaDo8LD/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAECAwQFBgf/xABAEQABAwIBBA4IBgMBAQEAAAAAAQIDBBESBSFSkRMUIyQxMjNBUVNhcaGxFSIlVGJjgfAGNGRyweEWQpJDNXP/2gAMAwEAAhEDEQA/APG7EN08Xjt9qw1HJO7jJFx0Ozhf2XL5NntK4zk3u3vU3f8A0XuKyV3YEg+07pVtNTfSd38GJeSXvLKod2RT+K/2BazU3J5lXjIRQPN9Zm3XdGruTkvvnIT/AGK21XdgQ/y/utmH824xScihyy6RqBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQF7YXcz4x5rUBoWJ84i8dvtWGo5J3cXi46HbQs7Lk8kznFcVy73b3qb6Jui9xVyt7Al8Z3TLaau+m938GJeRUtKlnZFP4r/YFqtXcnmVU9ZpFA3PW+F3Rq7l5L75yqf7lZare18J8T91swrvtxik5FDk11DUCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgL2wu5nxjzWoDRsH5xD47fasFTyTu4yRcdDvYGdmy+SZzi" group-title="IN - Punjabi - Live",PUN || GLOBAL DESI
+http://5giptv.xyz:8880/94863529/65843757/325329
+#EXTINF:-1 tvg-id="MH.ONE.in" tvg-name="PUN || JUS PUNJABI" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/5f240f32399451cce5b673bc9fae1041.png" group-title="IN - Punjabi - Live",PUN || JUS PUNJABI
+http://5giptv.xyz:8880/94863529/65843757/179174
+#EXTINF:-1 tvg-id="MH.ONE.in" tvg-name="PUN || PITAARA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4f4168f4160f629ff4cdf85b02abc554.png" group-title="IN - Punjabi - Live",PUN || PITAARA HD
+http://5giptv.xyz:8880/94863529/65843757/325325
+#EXTINF:-1 tvg-id="NEWS18.PUNJAB.in" tvg-name="PUN || PTC PUNJABI GOLD HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/ada5d93e87f001f31c5f0e38b7a67e95.png" group-title="IN - Punjabi - Live",PUN || PTC PUNJABI GOLD HD
+http://5giptv.xyz:8880/94863529/65843757/325397
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PTC SIMRAN 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/bcec97489d528d58c4e210afe9254d03.png" group-title="IN - Punjabi - Live",PUN || PTC SIMRAN 4K
+http://5giptv.xyz:8880/94863529/65843757/325260
+#EXTINF:-1 tvg-id="" tvg-name="PUN || PTC CHAKDE 4K" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/f39990ffd45c5d49514645772b2761d9.png" group-title="IN - Punjabi - Live",PUN || PTC CHAKDE 4K
+http://5giptv.xyz:8880/94863529/65843757/325278
+#EXTINF:-1 tvg-id="" tvg-name="PUN || 5AAB TV" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/acb0790aa71f82b8716baa41ec041b4e.png" group-title="IN - Punjabi - Live",PUN || 5AAB TV
+http://5giptv.xyz:8880/94863529/65843757/179171
+#EXTINF:-1 tvg-id="" tvg-name="PUN || NAMDHARI" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/af4bb78a4e6f24b428eb0bfbdfa60267.png" group-title="IN - Punjabi - Live",PUN || NAMDHARI
+http://5giptv.xyz:8880/94863529/65843757/179172
+#EXTINF:-1 tvg-id="" tvg-name="PUN || STEELBIRD MUSIC" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a3d40c523ca719bf7869371781238d5e.png" group-title="IN - Punjabi - Live",PUN || STEELBIRD MUSIC
+http://5giptv.xyz:8880/94863529/65843757/179176
+#EXTINF:-1 tvg-id="" tvg-name="PUN || MH ONE SHRADDHA" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/45f90b15f066f9bc8d59bf73bc41f85a.png" group-title="IN - Punjabi - Live",PUN || MH ONE SHRADDHA
+http://5giptv.xyz:8880/94863529/65843757/179173
+#EXTINF:-1 tvg-id="" tvg-name="PUN || MH1 DIL SE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/07dbd0ef615b37c254ec76749e4c814f.png" group-title="IN - Punjabi - Live",PUN || MH1 DIL SE HD
+http://5giptv.xyz:8880/94863529/65843757/179177
+#EXTINF:-1 tvg-id="" tvg-name="PUN || BALLE BALLE" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/25dc665e4032b4fc49b2b402e4a5c271.png" group-title="IN - Punjabi - Live",PUN || BALLE BALLE
+http://5giptv.xyz:8880/94863529/65843757/325482
+#EXTINF:-1 tvg-id="" tvg-name="PUN || TV Punjab" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/925eb08cb4f4099c251e765621948f95.png" group-title="IN - Punjabi - Live",PUN || TV Punjab
+http://5giptv.xyz:8880/94863529/65843757/325279
+#EXTINF:-1 tvg-id="" tvg-name="PUN || Charkdila Gubrani" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/1a87733ce3e3bdc9c6ae783dfedaa8b8.png" group-title="IN - Punjabi - Live",PUN || Charkdila Gubrani
+http://5giptv.xyz:8880/94863529/65843757/325400
+#EXTINF:-1 tvg-id="" tvg-name="India News Punjab" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/6e4b00b82f3318683660d2f49155ccc0.png" group-title="IN - Punjabi - Live",India News Punjab
+http://5giptv.xyz:8880/94863529/65843757/324815
+#EXTINF:-1 tvg-id="" tvg-name="IN-PUN: GLOBAL PUNJAB HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/a4a5c288bbcc1a96012fce396d462125.png" group-title="IN - Punjabi - Live",IN-PUN: GLOBAL PUNJAB HD
+http://5giptv.xyz:8880/94863529/65843757/324820
